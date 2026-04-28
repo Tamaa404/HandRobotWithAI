@@ -36,5 +36,5 @@ The foundation for **AI Integration**. In this stage, the Arduino is configured 
 * **Communication:** Serial (USB) and Bluetooth (HC-05/HC-06).
 
 ## 📂 Repository Structure
-* `/code`: Folders containing the Arduino `.ino` sketches for each development stage.
+* `/code/handx`: Folders containing the Arduino `.ino` sketches for each development stage.
 * `/design`: 3D printing files and assembly references.
